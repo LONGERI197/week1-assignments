@@ -1,4 +1,9 @@
 h1
 {
-font-size: larger;color: aquamarine;
+font-size: larger;color: black;
+}
+body
+{
+background-color: aquamarine;  
+ } 
 }
