@@ -21,17 +21,19 @@ and Rural development. I have proven my abilities in customer service representa
 ## Known Bugs
 There are no known bugs on this project.
 ## Technologies Used
-<p>
-CSS
-VISUAL STUDIO
-GIT BASH
+*CSS
+*Git Bash
+*Visual Studio
+
 
 ## Contact Details
-### EMAIL:bisaselilian11@gmail.com  0716438036
+#### EMAIL:bisaselilian11@gmail.com 
 
-### FACEBOOK;https://www.facebook.com/Bisylily/?ref=pages_you_manage 
+#### 0716438036
 
-### YOUTUBE:https://www.youtube.com/channel/UCgG5OkubE7uTEmm6j-uCxsQ 
+#### FACEBOOK;https://www.facebook.com/Bisylily/?ref=pages_you_manage 
+
+#### YOUTUBE:https://www.youtube.com/channel/UCgG5OkubE7uTEmm6j-uCxsQ 
 
 
 ### License
