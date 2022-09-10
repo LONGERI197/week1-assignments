@@ -1,4 +1,4 @@
-# LILIAN BISASE ONGERI BIOGRAPHY
+#LILIAN BISASE ONGERI BIOGRAPHY
 
 #### This project is about the biography of Lilian Bisase Ongeri, Version Date: 9th Sept 2022
 
@@ -20,8 +20,8 @@
 
 - Just click on the hyperlinks that will direct you to view Github projects.
 
- 
-
+ ## Live link
+- https://longeri197.github.io/week1-assignments
 ## Known Bugs
 There are no known bugs on this project.
 ## Technologies Used
