@@ -6,8 +6,7 @@
 
 ## Description
 
-##### I’m a highly competent and dependable team player who has a natural interest in agriculture, food security 
-and Rural development. I have proven my abilities in customer service representation, as well as maintaining and creating relationships based on trust. I am accustomed to working on a range of projects and implementing strategies based on economic factors. I am committed to finding solutions that work for everyone involved and would love the chance to showcase my skills.
+##### I’m a highly competent and dependable team player who has a natural interest in agriculture, food security and Rural development. I have proven my abilities in customer service representation, as well as maintaining and creating relationships based on trust. I am accustomed to working on a range of projects and implementing strategies based on economic factors. I am committed to finding solutions that work for everyone involved and would love the chance to showcase my skills.
 
 ## Setup/Installation Requirements
 - This is a great place to be, to learn more on Lilian
