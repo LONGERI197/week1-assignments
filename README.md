@@ -21,9 +21,11 @@ and Rural development. I have proven my abilities in customer service representa
 ## Known Bugs
 There are no known bugs on this project.
 ## Technologies Used
-*CSS
-*Git Bash
-*Visual Studio
+* CSS
+
+* Git Bash
+
+* Visual Studio
 
 
 ## Contact Details
