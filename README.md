@@ -6,19 +6,13 @@
 
 ## Description
 
-##### I’m a highly competent and dependable team player who has a natural interest in agriculture, food security and Rural development. I have proven my abilities in customer service representation, as well as maintaining and creating relationships based on trust. I am accustomed to working on a range of projects and implementing strategies based on economic factors. I am committed to finding solutions that work for everyone involved and would love the chance to showcase my skills.
+##### I’m a highly competent and dependable team player who has a natural interest in agriculture, food security 
+and Rural development. I have proven my abilities in customer service representation, as well as maintaining and creating relationships based on trust. I am accustomed to working on a range of projects and implementing strategies based on economic factors. I am committed to finding solutions that work for everyone involved and would love the chance to showcase my skills.
 
 ## Setup/Installation Requirements
-
- 
-
 - This is a great place to be, to learn more on Lilian
 
 - You will learn on Lilian's Background including education, job experience etc.
-
-- You will learn on Diana's reason for doing the course.
-
-- The project is easy-to-understand
 
 - Just click on the hyperlinks that will direct you to view Github projects.
 
@@ -33,9 +27,11 @@ VISUAL STUDIO
 GIT BASH
 
 ## Contact Details
-EMAIL:bisaselilian11@gmail.com  0716438036
-FACEBOOK;https://www.facebook.com/Bisylily/?ref=pages_you_manage 
-YOUTUBE:https://www.youtube.com/channel/UCgG5OkubE7uTEmm6j-uCxsQ 
+### EMAIL:bisaselilian11@gmail.com  0716438036
+
+### FACEBOOK;https://www.facebook.com/Bisylily/?ref=pages_you_manage 
+
+### YOUTUBE:https://www.youtube.com/channel/UCgG5OkubE7uTEmm6j-uCxsQ 
 
 
 ### License
